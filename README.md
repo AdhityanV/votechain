@@ -5,7 +5,7 @@
 
   ## 🚀 Live Demo
 
-  **Test VoteChain Now:** [https://AdhityanV.github.io/votechain/](https://AdhityanV.github.io/votechain/)
+  **Test VoteChain Now:** [sensational-taffy-a0fc99.netlify.app)
 
   ## 🎯 Quick Test Guide
 
