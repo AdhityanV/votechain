@@ -5,7 +5,7 @@
 
   ## 🚀 Live Demo
 
-  **Test VoteChain Now:** [sensational-taffy-a0fc99.netlify.app)
+  **Test VoteChain Now:** [https://sensational-taffy-a0fc99.netlify.app/)
 
   ## 🎯 Quick Test Guide
 
